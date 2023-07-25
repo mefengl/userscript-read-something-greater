@@ -1,0 +1,1 @@
+# userscript-read-something-greater
